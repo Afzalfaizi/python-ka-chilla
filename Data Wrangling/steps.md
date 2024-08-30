@@ -16,3 +16,7 @@
       3. Z-score normalization
       4. Decimal Scaling
       5. Log transformation
+5. Organizing data
+   1. columns creation
+   2. Renaming (jis ki sense banti ho)
+6. Saving the data to be used
